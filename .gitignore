@@ -1,3 +1,5 @@
 docker/notebooks
 docker/requirements.txt
 Dockerfile
+docker-compose.dev.yaml
+work/

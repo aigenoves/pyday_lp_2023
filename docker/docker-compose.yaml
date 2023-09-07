@@ -1,6 +1,6 @@
 version: '3.8'
 services:
   jupyter_pyday:
-    image: aigenoves/pyday_lp_2023:1.1
+    image: aigenoves/pyday_lp_2023:1.2
     ports:
       - 8888:8888
